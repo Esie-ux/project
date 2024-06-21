@@ -1,5 +1,8 @@
 <?php
-echo "<h1>Food order app</h1>";
-
 include 'components/NavComponent.php';
+?>
+    <!-- The food items will be listed here -->
+    
+    <!-- End of food items -->
+<?php
 include 'components/FooterComponent.php';
