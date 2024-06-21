@@ -18,7 +18,7 @@
         </div>
         <div class="form-group">
             <label for="description">Add Image</label>
-            <input class="form-control" type="image" src="" alt="">
+            <input  type="image" src="" alt="">
         </div>
         <div class="form-check">
             <input type="checkbox" class="form-check-input" id="exampleCheck1">
